@@ -3,24 +3,17 @@
 
 
 # Practical work
-> This project aims to solve a problem concerning a classification of patients with cancer of the kidneys and those without cancer. Such a model will help hospitals in terms of decision making on new patients with the same clinical data.
-ing
+> From car data, make a machine learning model to predict the price of cars and deploy this model.
 
 ## Context of the project:
-
-
-As a Data Developer, Data Scientist, -Data Analysis and Visualization -Data Normalization -Create a model to classify a person with breast cancer or not.
-
-## Definition of breast cancer
-
-Breast cancer results from a disruption of certain cells which multiply and most often form a mass called a tumour. There are different types that do not evolve in the same way. Some are “aggressive” and evolve very quickly, others more slowly. Cancer cells can remain in the breast.
+As a Data Developer, Data Scientist, -Data Analyst and Visualization -Data Normalization -Create the Machine Learning model to predict car prices and deploy it as a web application
 
 ## Performance criteria
--The model must be able to classify the new patient with his data. The error must be minimal!
+-Your result (Web Application) must be able to provide a result (a prediction from the inputs).
 
 ## Tools
 
-- Click on this link to download the dataset- [Dataset download link](https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset/) 
+- Click on this link to download the dataset- [Dataset download link](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) 
 
 ## Contribute
 
