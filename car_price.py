@@ -11,7 +11,6 @@ import numpy as np
 import streamlit as st
 from streamlit_option_menu import option_menu
 import joblib
-from sklearn.preprocessing import LabelEncoder
 
 
 df = pd.read_csv("car_price_cleaned.csv")
