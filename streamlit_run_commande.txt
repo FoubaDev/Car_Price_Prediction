@@ -6,7 +6,7 @@ Created on Thu Jul 13 11:21:52 2023
 @author: fouba
 """
 
-streamlit run "/home/fouba/Documents/Tech4Tchad/python/MachineLearning/group/Car_Price_Prediction/car_price.py"
+streamlit run "Car_Price_Prediction/car_price.py"
 
 
 
